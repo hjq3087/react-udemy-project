@@ -199,7 +199,6 @@ const SHOP_DATA = [
                 imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
                 price: 20
             }
-
         ]
     },
     {
@@ -245,6 +244,6 @@ const SHOP_DATA = [
             }
         ]
     }
-]
+];
 
-export default SHOP_DATA
+export default SHOP_DATA;
